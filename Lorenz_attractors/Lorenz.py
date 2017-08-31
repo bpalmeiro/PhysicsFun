@@ -25,7 +25,7 @@ def fun(var,t):
     
 sol = inte.odeint(fun,[5.,5.,5.],t,full_output=True)
 
-print sol[1]['message']
+print(sol[1]['message'])
 
 x = sol[0][:,0]
 y = sol[0][:,1]

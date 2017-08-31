@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  9 18:32:06 2014
 
-@author: brais
+@author: Brais Palmeiro Pazos
 """
 
 import numpy as np

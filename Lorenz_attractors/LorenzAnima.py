@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct  9 18:15:32 2014
+
+@author: Brais Palmeiro Pazos
+"""
+
+
 import numpy as np
 import matplotlib.pylab as plt
 import scipy.integrate as inte
